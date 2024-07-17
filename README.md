@@ -1,4 +1,3 @@
-# BEDU-Challenge1
 Repositorio muestra para Challenge1 IA_Creativa BEDU 2024 Prompt 1
 
 Campaña de marketing para un Curso de alimentación saludable
