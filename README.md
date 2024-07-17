@@ -1,43 +1,36 @@
-# BEDU-Challenge1
-Repositorio muestra para Challenge1 IA_Creativa BEDU 2024 Prompt 1
+Repositorio muestra para Challenge1 IA_Creativa BEDU 2024 Prompt 2
+# Lanzamiento (16 de julio)
 
-Campaña de marketing para un Curso de alimentación saludable
+**Asunto:** Descubre el secreto de una vida saludable y deliciosa en la Ciudad de México 🌿🍲
 
-## Contenido_1 Correo electronico:
-
+**Cuerpo del mensaje:**
+---
 ¡Hola [Nombre del destinatario]!
 
-¿Estás listo para transformar tu vida a través de una alimentación sana y deliciosa? 🍏🌟
+Estamos emocionados de anunciarte el lanzamiento de nuestro nuevo "Curso de Nutrición y Alimentos Locales". Este curso está diseñado especialmente para ti, que buscas una alimentación saludable, antiinflamatoria, antiestrés, equilibrada y deliciosa.
 
-Te presentamos nuestro **"Curso de Alimentación Sana"**, diseñado para que aprendas a nutrirte de manera equilibrada y disfrutar de los beneficios de una dieta saludable.
+**Beneficios del curso:**
+- Aprenderás a cuidar tu alimentación y mantener un peso saludable.
+- Mejorarás tu salud cerebral e índices glucémicos.
+- Descubrirás recetas rápidas y deliciosas con ingredientes locales de la Ciudad de México.
 
-### ¿Qué aprenderás?
-- **Principios de una dieta equilibrada** basada en la milpa: maíz, frijol, chile y calabaza.
-- **Cómo desintoxicar tu cuerpo** y mejorar tu balance proteico.
-- **Consejos prácticos** para prevenir enfermedades crónicas y mejorar tu bienestar general.
+**Oferta Especial de Lanzamiento:**
+Inscríbete ahora y obtén un 20% de descuento. ¡No dejes pasar esta oportunidad para transformar tu vida!
 
-![Curso de Alimentación Sana](Imagenes/bread-2178874_1280.jpg)
+Haz clic aquí para inscribirte: [Inscribirme en el Curso de Nutrición y Alimentos Locales]
 
-### Beneficios que Obtendrás:
-- **Más energía** y mejor rendimiento diario.
-- **Mejora en tu salud** física y emocional.
-- **Reducción de grasas** y balance ácido-alcalino.
+**Recetas para hoy:**
+1. Ensalada de nopales asados con jitomate y aguacate.
+2. Caldo tlalpeño con pollo orgánico y verduras frescas.
+3. Tacos de jamaica con guacamole casero.
+4. Agua de horchata con chía y canela.
 
-### ¡Oferta Especial de Lanzamiento!
-Inscríbete ahora y obtén un **20% de descuento**. ¡Promoción válida solo por tiempo limitado!
+¡Esperamos verte pronto en el curso!
 
-Haz clic aquí para inscribirte: **[Inscribirme en el Curso de Alimentación Sana](#)**
-
-No esperes más para empezar tu camino hacia una vida más saludable. Si tienes alguna pregunta, estamos aquí para ayudarte.
-
-¡Te esperamos en el curso!
-
-Con cariño,  
+Saludos saludables,
 [Tu Nombre]  
 [Tu Empresa]  
 [Contacto]
-
 ---
-
 
 ¡Únete a nosotros y descubre lo fácil y delicioso que puede ser comer sano! 🥗🍎
